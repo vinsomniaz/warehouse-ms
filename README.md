@@ -4,9 +4,9 @@ Este sistema web permite registrar, controlar y visualizar productos almacenados
 
 ## Tecnologías utilizadas 🛠
 
-- Backend: PHP (CakePHP)
-- Frontend: HTML, CSS, JavaScript (vanilla)
-- Base de Datos: MySQL (Hostinger)
+- Backend: PHP
+- Frontend: HTML, CSS, JavaScript
+- Base de Datos: MySQL
 - Control de versiones: Git + GitHub
 
 ## Funcionalidades principales 🚛
